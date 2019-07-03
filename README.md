@@ -2,7 +2,7 @@
 
 ### Paper: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf)
 
-<img src="/asssets/DANN.JPG" width="400" height="200" />
+<img src="/assets/DANN.JPG" width="600" height="300" />
 
 
 ## **Prerequisite**
@@ -43,5 +43,5 @@
 
 
 
-<img src="/asssets/acc.jpg" width="300" height="200" />
+<img src="/assets/acc.jpg" width="400" height="300" />
 
