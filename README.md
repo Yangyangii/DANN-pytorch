@@ -20,6 +20,8 @@
 
 - Download from torchvision
 
+<p><img src="/assets/svhn.jpg" width="300" height="300" /><img src="/assets/mnist.jpg" width="300" height="300" /></p>
+
 
 ## **Description**
 
