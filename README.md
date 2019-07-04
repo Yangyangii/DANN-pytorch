@@ -1,4 +1,4 @@
-# **DANN (Domain Adaptation Neural Network)-pytorch**
+# **DANN (Domain-Adversarial Neural Network)-pytorch**
 
 ### Paper: [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf)
 
